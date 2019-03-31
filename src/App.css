@@ -1,0 +1,24 @@
+.App {
+  padding: 20px;
+}
+
+.heading {
+  color: #f8bf45;
+  font-weight: 700;
+  font-size: 150px;
+}
+
+.text {
+  color: #bbb;
+  font-size: 25px;
+}
+
+img {
+  width: 500px;
+}
+
+@media only screen and (max-width: 786px) {
+  img {
+    width: 100%;
+  }
+}
